@@ -34,7 +34,7 @@
         }
         if (leapVal > 0) sb.Insert(0, 1);
         return sb.ToString();
-    }
+      }
 
       static void Main()
       {
