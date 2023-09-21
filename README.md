@@ -48,4 +48,5 @@
       }
     }
 
-
+This method performs the addition process that we do with paper and pencil. I got it from an interview video :<br>
+https://www.youtube.com/watch?v=7gDlAVWY3Lo
