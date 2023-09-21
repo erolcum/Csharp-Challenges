@@ -11,6 +11,9 @@ Write a method that gets 2 positive big integers as string then returns the resu
 
 **Answer :**<br>
 
+    using System;
+    using System.Text;
+    
     class Program
     {
       public static string Sum(string val1, string val2)
@@ -53,7 +56,7 @@ Write a method that gets 2 positive big integers as string then returns the resu
 This method performs the addition process that we do with paper and pencil. I got it from an interview video :<br>
 https://www.youtube.com/watch?v=7gDlAVWY3Lo<br>
 
-**Answer 2 :** This solution uses the same algorithm by using Lists..<br>
+**Answer 2 :** This solution uses the same algorithm by using Lists instead of strings..<br>
 
     using System;
     using System.Linq;
