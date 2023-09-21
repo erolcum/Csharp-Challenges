@@ -124,6 +124,6 @@ https://www.youtube.com/watch?v=7gDlAVWY3Lo<br>
 
         public override string ToString()
         {    
-            return string.Join(string.Empty, result.Select(n => n.ToString()));
+            return string.Join(string.Empty, result.Select(n => n.ToString())); //Linq magic
         }
     }
