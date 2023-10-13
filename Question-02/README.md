@@ -17,5 +17,6 @@ Without Linq line in Program.cs, **Solve()** method should be like this :<br>
     }
 
 
-![i2](https://github.com/erolcum/Csharp-Challenges/assets/110387801/3c5b1ab8-4bba-416d-b7c6-712391845b8c)
+![i2](https://github.com/erolcum/Csharp-Challenges/assets/110387801/9d365af6-9fe5-4195-9e6c-a7adac0d4b2d)
+
 
