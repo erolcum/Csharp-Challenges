@@ -1,4 +1,5 @@
 Without Linq line in Program.cs, **Solve()** method should be like this :<br>
+
     public string Solve()
     {			
 	for(int i=0; i<1000; i++)
