@@ -1,1 +1,1 @@
-
+Create a 2D matrix MxN and print it. Elements will be entered manually and their values ​​will be different. Then create another matrix and print it. The elements in it will come from the previous matrix, but their locations will be different. Then calculate the distance between the same elements in the first matrix and the second matrix. Find the farthest element and print it.
