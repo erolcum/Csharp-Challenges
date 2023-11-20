@@ -1,5 +1,5 @@
 This is a problem from BattleShip game. Create a 10x10 char array. <br>
-Ships :  
+Ships are marked with 'o' :  
 
     matrix[0, 2] = 'o';
     matrix[0, 3] = 'o';
