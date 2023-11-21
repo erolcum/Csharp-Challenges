@@ -4,4 +4,5 @@ Use the following 2d array to find the magic square. Sum of the numbers in one r
                             { 4,5,6 },
                             { 7,8,9 }};
 
+
 ![Ekran Alıntısı](https://github.com/erolcum/Csharp-Challenges/assets/110387801/6147f4d0-1af9-4b66-bf54-f0f14098f903)
